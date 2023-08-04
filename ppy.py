@@ -8,3 +8,7 @@ print("The addition of number is :",x+y)
 #to get the division
 
 print("The division of x and y is:",x/y)
+
+#to find the square of a number
+
+print("The square of a number is:",x**y)
